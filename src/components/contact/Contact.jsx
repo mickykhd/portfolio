@@ -58,7 +58,7 @@ class Contact extends Component {
               </a>
             </div> */}
           </div>
-          <form ref={this.form} onSubmit={this.sendEmail} action="">
+          {/* <form ref={this.form} onSubmit={this.sendEmail} action="">
             <input
               type="text"
               name="name"
@@ -80,7 +80,7 @@ class Contact extends Component {
             <button type="submit" className="btn btn-primary">
               Send Message
             </button>
-          </form>
+          </form> */}
         </div>
       </section>
     );
