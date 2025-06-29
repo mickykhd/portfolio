@@ -35,10 +35,7 @@ class About extends Component {
               </article>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Cupiditate voluptatum recusandae sint ipsam est inventore alias
-              dolorem ducimus voluptatem ipsa quidem expedita dolorum porro
-              error ex amet officia, facilis assumenda!
+              I'm a passionate Full Stack Developer with expertise in modern web technologies. With a strong foundation in both frontend and backend development, I specialize in creating responsive, user-friendly applications. My approach combines clean code principles with creative problem-solving to deliver high-quality digital experiences. I'm constantly learning and adapting to new technologies to stay at the forefront of web development.
             </p>
             <a href="#contact" className="btn btn-primary">
               Let's Talk
