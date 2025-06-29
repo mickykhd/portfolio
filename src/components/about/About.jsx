@@ -31,7 +31,7 @@ class About extends Component {
               <article className="about__card">
                 <FaProjectDiagram className="about__icon" />
                 <h5>Projects</h5>
-                <small>100+ Completed Projects</small>
+                <small>15+ Completed Projects</small>
               </article>
             </div>
             <p>
